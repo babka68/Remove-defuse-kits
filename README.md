@@ -2,7 +2,8 @@
 - Поддерживаемые игры: CS: Source (OrangeBox), CS: Source (v34)
 
 - Описание: Удалить комплекты для обезвреживания после смерти игрока.
-<img width="960" alt="Screenshot_1" src="https://github.com/babka68/Remove-defuse-kits/assets/30433617/439a9ac0-a693-4025-9ec8-ad43cf7a962a">
+![1](https://github.com/babka68/Remove-defuse-kits/assets/30433617/c1025044-921b-4676-9245-a37fa6503bb8)
+
 
 - Установка:
 1) Поместить remove_defuse_kits.smx по пути \addons\sourcemod\plugins
