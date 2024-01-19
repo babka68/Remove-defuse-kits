@@ -1,5 +1,5 @@
 # Remove-defuse-kits
-- Поддерживаемые игры: CS: Source (OrangeBox)CS: Source (v34)
+- Поддерживаемые игры: CS: Source (OrangeBox), CS: Source (v34)
 
 - Описание: Удалить комплекты для обезвреживания после смерти игрока.
 <img width="960" alt="Screenshot_1" src="https://github.com/babka68/Remove-defuse-kits/assets/30433617/439a9ac0-a693-4025-9ec8-ad43cf7a962a">
